@@ -1,27 +1,111 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
+<!doctype html>
+<html lang="es">
 <head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta http-equiv="Content-Style-Type" content="text/css">
-  <title></title>
-  <meta name="Generator" content="Cocoa HTML Writer">
-  <meta name="CocoaVersion" content="2299.7">
-  <style type="text/css">
-    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica}
-    span.s1 {font: 12.0px 'Apple Color Emoji'}
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Paola San — Data Analyst</title>
+  <meta name="description" content="Portafolio y contacto de Paola San, Data Analyst. Proyectos, dashboards y notas técnicas." />
+  <style>
+    /* Tipografía y layout minimal */
+    :root {
+      --fg:#111; --bg:#fff; --muted:#555; --link:#0a66c2; --max:760px;
+    }
+    @media (prefers-color-scheme: dark){
+      :root { --fg:#eaeaea; --bg:#0b0f14; --muted:#9aa3ac; --link:#66b2ff; }
+    }
+    html,body{margin:0;padding:0;background:var(--bg);color:var(--fg);font:16px/1.7 -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Inter,system-ui,Arial,sans-serif}
+    a{color:var(--link);text-decoration:none} a:hover{text-decoration:underline}
+    .wrap{max-width:var(--max);margin:0 auto;padding:28px 18px}
+    header{margin-bottom:18px}
+    h1{font-size:clamp(26px,4.8vw,38px);margin:0 0 6px}
+    .tag{color:var(--muted);margin:0 0 14px}
+    nav{display:flex;gap:14px;flex-wrap:wrap;margin:4px 0 22px}
+    nav a{padding:6px 10px;border-radius:8px;border:1px solid #ddd}
+    @media (prefers-color-scheme: dark){nav a{border-color:#263241}}
+    section{margin:28px 0}
+    h2{font-size:20px;margin:0 0 12px}
+    .card{padding:16px 14px;border:1px solid #e5e7eb;border-radius:12px;margin-bottom:12px}
+    @media (prefers-color-scheme: dark){.card{border-color:#263241}}
+    .meta{color:var(--muted);font-size:14px}
+    ul{margin:8px 0 0 18px}
+    footer{margin-top:30px;color:var(--muted);font-size:14px}
   </style>
 </head>
 <body>
-<p class="p1">&lt;!doctype html&gt;</p>
-<p class="p1">&lt;html lang="es"&gt;</p>
-<p class="p1">&lt;head&gt;</p>
-<p class="p1"><span class="Apple-converted-space">  </span>&lt;meta charset="utf-8"&gt;</p>
-<p class="p1"><span class="Apple-converted-space">  </span>&lt;title&gt;Mi Portafolio&lt;/title&gt;</p>
-<p class="p1">&lt;/head&gt;</p>
-<p class="p1">&lt;body&gt;</p>
-<p class="p1"><span class="Apple-converted-space">  </span>&lt;h1&gt;¡Hola, soy Paola!&lt;/h1&gt;</p>
-<p class="p1"><span class="Apple-converted-space">  </span>&lt;p&gt;Bienvenida/o a mi portafolio de Data Analytics &amp; mjData Science <span class="s1">🚀</span>&lt;/p&gt;</p>
-<p class="p1">&lt;/body&gt;</p>
-<p class="p1">&lt;/html&gt;</p>
+  <div class="wrap">
+    <header>
+      <h1>Paola San</h1>
+      <p class="tag">Data Analyst — Power BI • SQL • Python</p>
+      <nav aria-label="Secciones">
+        <a href="#about">About</a>
+        <a href="#projects">Projects</a>
+        <a href="#dashboards">Dashboards</a>
+        <a href="#contact">Contact</a>
+      </nav>
+    </header>
+
+    <section id="about">
+      <h2>About</h2>
+      <div class="card">
+        <p>Analista de datos enfocada en convertir información en decisiones. Experiencia con Power Query/Power BI, modelado de datos y visualización clara para stakeholders con distintos niveles de conocimiento técnico.</p>
+        <p class="meta">Stack: Power BI (DAX/Model), SQL, Excel, Python (pandas), GitHub.</p>
+      </div>
+    </section>
+
+    <section id="projects">
+      <h2>Projects</h2>
+
+      <article class="card">
+        <strong><a href="https://github.com/TU_USUARIO/sales-forecasting" target="_blank" rel="noopener">Sales Forecasting (Time Series)</a></strong>
+        <div class="meta">Python · pandas · Prophet/SARIMA</div>
+        <p>Pipeline de pronóstico con limpieza, features de calendario y evaluación. Reporte final con métricas y recomendaciones.</p>
+        <ul>
+          <li>MAPE &lt; 9% en SKU top.</li>
+          <li>Notebook reproducible y README con pasos.</li>
+        </ul>
+      </article>
+
+      <article class="card">
+        <strong><a href="https://github.com/TU_USUARIO/customer-churn" target="_blank" rel="noopener">Customer Churn Prediction</a></strong>
+        <div class="meta">Scikit-learn · XGBoost · SHAP</div>
+        <p>Modelo de fuga de clientes con interpretación SHAP y palancas de retención priorizadas.</p>
+      </article>
+
+      <article class="card">
+        <strong><a href="https://github.com/TU_USUARIO/powerquery-recipes" target="_blank" rel="noopener">Power Query Recipes</a></strong>
+        <div class="meta">Power Query · ETL</div>
+        <p>Recetario de transformaciones (deduplicación, tipos, fechas, normalización) listo para copiar/pegar.</p>
+      </article>
+    </section>
+
+    <section id="dashboards">
+      <h2>Dashboards</h2>
+
+      <article class="card">
+        <strong>Retail Performance — Power BI</strong>
+        <div class="meta">DAX · RLS · Incremental refresh</div>
+        <p>KPIs: YoY, margen por categoría, cohortes. <a href="https://app.powerbi.com/view?r=TU_LINK_PUBLICO" target="_blank" rel="noopener">Ver reporte</a></p>
+      </article>
+
+      <article class="card">
+        <strong>Marketing Funnel — Tableau</strong>
+        <div class="meta">Tableau Public</div>
+        <p>Embudo multi-canal con parámetros y blends. <a href="https://public.tableau.com/app/profile/TU_PERFIL" target="_blank" rel="noopener">Ver en Tableau</a></p>
+      </article>
+    </section>
+
+    <section id="contact">
+      <h2>Contact</h2>
+      <div class="card">
+        <p>📧 <a href="mailto:tu.email@dominio.com">tu.email@dominio.com</a> · 🐙 <a href="https://github.com/TU_USUARIO" target="_blank" rel="noopener">GitHub</a> · 🔗 <a href="https://www.linkedin.com/in/TU_LINKEDIN/" target="_blank" rel="noopener">LinkedIn</a></p>
+      </div>
+    </section>
+
+    <footer>
+      © <span id="y"></span> Paola San — Hecho con GitHub Pages
+    </footer>
+  </div>
+
+  <script>document.getElementById('y').textContent = new Date().getFullYear();</script>
 </body>
 </html>
