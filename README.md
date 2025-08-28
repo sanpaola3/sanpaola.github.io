@@ -1,43 +1,79 @@
-💼 Data Scientist | Process Optimization Analyst
-📍 Mexico — Open to Remote Work in US & EU Time Zones
+# 💼 Data Science Jr. | Procurement & Finance Analyst  
+📍 Mexico City — Open to Remote (US & EU Time Zones)
 
-🧠 Key Skills
-Python | SQL | R | C++ | Scikit-learn | MLflow | pandas | statsmodels | Power BI | Tableau | Excel | SAP | Git | VS Code | Jupyter | A/B Testing | EDA | Feature Engineering | DOE | DMAIC | Lean Six Sigma Green Belt
+* * *
 
-🎓 Education
-Data Scientist – TripleTen (May 2024 – February 2025)
-Industrial Engineering – – Universidad Iberoamericana, Puebla (2014 – 2018)
-🚀 Highlight Projects
-📉 Customer Churn Prediction – TripleTen (February 2025)
-GitHub Repository
-Built a predictive model with XGBoost achieving 85% accuracy to identify at-risk customers in a telecom company. Used feature selection and SHAP explanations to interpret results and support strategic decisions.
+## 🧠 Key Skills  
+Python | SQL | Pandas | NumPy | Scikit-learn | Tableau | Excel | Git/GitHub | SAP | Oracle | ERP Systems | Data Cleaning | Forecasting | Machine Learning | A/B Testing | Data Visualization | Procurement Analytics | Lean Six Sigma Green Belt  
 
-🚖 Taxi Demand Forecasting – TripleTen (December 2024)
-GitHub Repository
-Implemented a time-series regression model using CatBoost to forecast hourly taxi demand, improving operational planning by 25%. Applied time-series techniques to enhance forecast accuracy.
+* * *
 
-🧳 Professional Experience
-👩‍🏫 IBERO University – Team Coach
-🗓️ October 2021 – July 2024
-Led student teams in innovation and entrepreneurship projects.
+## 🎓 Education  
+🎓 Master’s in Quality and Productivity — Universidad Tec Milenio (2017–2019)  
+🎓 Bachelor’s in Innovation and Business Management — Tecnológico de Monterrey (2012–2017)  
+📊 Data Scientist Bootcamp — TripleTen (Mar 2024 – May 2025)  
+🐍 Python Course — Pilares (2023–2024)  
+✅ Green Belt Certification — Six Sigma  
 
-Co-designed a 5-week international residency in Spain for cross-cultural collaboration.
-Coached a top-5 project in Santander's Diversity & Inclusion Program.
-Mentored over 100 students in a civic-impact government hackathon.
-🏭 Schaeffler – Data & Process Analyst
-🗓️ September 2018 – September 2021
-Improved manufacturing processes using statistical tools and Lean Six Sigma methodologies.
+* * *
 
-Reduced CVT chain defects for FORD below 0.5% through data-driven analysis.
-Applied DOE in lines for Volvo and Daimler, reducing bushing scrap rates.
-Conducted multivariate analysis to improve measurement reliability across test systems.
-📚 Additional Training
-Green Belt – Schaeffler Academy
-Digital Marketing – IBERO
-Social Economy – IBERO
-🌐 Languages
-Spanish (Native)
-English (Upper-intermediate – B2)
-📬 Contact Me
-Gmail
-LinkedIn
+## 🚀 Highlight Projects  
+
+### 📉 Telco Churn Prediction Model — TripleTen (2025)  
+[GitHub Repository]()  
+Developed an end-to-end ML pipeline (LightGBM, Logistic Regression, Random Forest) to predict customer churn.  
+- Cleaned & merged 4 datasets with customer IDs.  
+- EDA revealed churn drivers (payment method, contract type, tenure).  
+- Balanced data via resampling & engineered features.  
+- Delivered actionable retention strategies.  
+
+* * *
+
+## 🧳 Professional Experience  
+
+### **First Brands Group — Sr. Planner**  
+🗓️ Oct 2022 – Present | CDMX  
+- Automated dashboards & KPI reports (lead time, fill rate, OTD) in Oracle ERP.  
+- Forecasted demand fluctuations to optimize purchasing.  
+- Root-cause analysis of supplier bottlenecks & delivery delays.  
+
+### **Plan International — Administrative & Finance Analyst**  
+🗓️ Oct 2019 – Sep 2022 | CDMX  
+- Built SAP BI dashboards for donor reporting & transparency.  
+- Budget variance analysis & financial control.  
+- Supported procurement & asset allocation with data-driven insights.  
+
+### **ZF Electronics Systems — Sr. Procurement Buyer**  
+🗓️ Aug 2017 – Oct 2019 | Juárez  
+- Negotiated supplier sourcing with statistical analysis.  
+- Forecasted demand using predictive models.  
+- Developed automated procurement dashboards.  
+
+### **Stoneridge NA — Purchasing & Project Management Intern**  
+🗓️ Sep 2016 – May 2017 | Juárez  
+
+### **Delphi — Indirect Purchasing Intern**  
+🗓️ Dec 2013 – Dec 2015 | Juárez  
+
+* * *
+
+## 🌍 International Experience  
+🇵🇹 ISCTE – Lisbon, Portugal — International Management & Marketing (2016)  
+🇧🇷 PUC Rio de Janeiro, Brazil — Marketing & Business Management (2013)  
+
+* * *
+
+## 🌐 Languages  
+🇪🇸 Spanish — Native  
+🇬🇧 English — Advanced (C1)  
+🇵🇹 Portuguese — Basic (A2)  
+
+* * *
+
+## 📬 Contact Me  
+✉️ [Email](mailto:paola.cs.acosta@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/paolacarolinasanchezacosta)  
+💻 [GitHub](https://github.com/sanpaola3)  
+
+*Hosted on GitHub Pages — Theme by orderedlist*
+
