@@ -20,12 +20,21 @@ Python | SQL | Pandas | NumPy | Scikit-learn | Tableau | Excel | Git/GitHub | SA
 ## 🚀 Highlight Projects  
 
 ### 📉 Telco Churn Prediction Model — TripleTen (2025)  
-[GitHub Repository]()  
+
 Developed an end-to-end ML pipeline (LightGBM, Logistic Regression, Random Forest) to predict customer churn.  
 - Cleaned & merged 4 datasets with customer IDs.  
 - EDA revealed churn drivers (payment method, contract type, tenure).  
 - Balanced data via resampling & engineered features.  
-- Delivered actionable retention strategies.  
+- Delivered actionable retention strategies.
+
+### 🌆 Urban Inequality Analysis — Ciudad Juárez (2024)  
+
+Explored how urban marginalization impacts access to public services in Ciudad Juárez using Python and Tableau.  
+- Built interactive dashboards (health, transport, culture, supply) with Tableau.  
+- Preprocessed and analyzed urban indicators dataset (CSV + Python).  
+- Identified clear gaps: highly marginalized areas have less access to health, transit, and cultural services.  
+- Delivered data-driven insights to support targeted public policies and urban planning.  
+
 
 * * *
 
@@ -72,7 +81,7 @@ Developed an end-to-end ML pipeline (LightGBM, Logistic Regression, Random Fores
 
 ## 📬 Contact Me  
 ✉️ [Email](mailto:paola.cs.acosta@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/paolacarolinasanchezacosta)  
+🔗 [LinkedIn](https://https://www.linkedin.com/in/paola-sanchez-acosta/)  
 💻 [GitHub](https://github.com/sanpaola3)  
 
 *Hosted on GitHub Pages — Theme by orderedlist*
