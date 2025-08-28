@@ -4,7 +4,7 @@
 * * *
 
 ## 🧠 Key Skills  
-Python | SQL | Pandas | NumPy | Scikit-learn | Tableau | Excel | Git/GitHub | SAP | Oracle | ERP Systems | Data Cleaning | Forecasting | Machine Learning | A/B Testing | Data Visualization | Procurement Analytics | Lean Six Sigma Green Belt  
+Python | SQL | Pandas | POWER BI | NumPy | Scikit-learn | Tableau | Excel | Git/GitHub | SAP | Oracle | ERP Systems | Data Cleaning | Forecasting | Machine Learning | A/B Testing | Data Visualization | Procurement Analytics | Lean Six Sigma Green Belt  
 
 * * *
 
